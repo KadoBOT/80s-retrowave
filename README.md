@@ -40,3 +40,10 @@ Under the `schemes` array, add the following scheme object:
     "brightYellow": "#c20092"
 }
 ```
+
+## Screenshots
+![Screenshot 1](./Screenshot%202020-11-15%20153805.png)
+
+![Screenshot 2](./Screenshot%202020-11-15%20153930.png)
+
+![Screenshot 3](./Screenshot%202020-11-15%20154036.png)
