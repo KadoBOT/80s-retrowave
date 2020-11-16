@@ -7,6 +7,7 @@ Add the extra options below to your `profile.defaults` or to a specificy termina
     "acrylicOpacity": 0.8,
     "backgroundImage": "[USER_PATH]/BraveOptimalBaleenwhale-size_restricted.gif",
     "backgroundImageOpacity": 0.15,
+    "backgroundImageStretchMode": "uniformToFill",
     "fontFace": "Cascadia Code PL",
     "colorScheme": "80s Retrowave",
     "antialiasingMode": "cleartype",
