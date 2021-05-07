@@ -1,6 +1,6 @@
 # 80s retrowave color scheme for Windows terminal
 ## Profile Configuration
-Add the extra options below to your `profile.defaults` or to a specific terminal profile. You can download the gif [here](./BraveOptimalBaleenwhale-size_restricted.gif)) and you can change the `fontFace` to whatever you like. 
+Add the extra options below to your `profile.defaults` or to a specific terminal profile. You can download the gif [here](./BraveOptimalBaleenwhale-size_restricted.gif). Set the `fontFace` to whatever you like. 
 ```json
 {
     "useAcrylic": true,
